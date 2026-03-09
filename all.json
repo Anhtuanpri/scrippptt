@@ -1,12 +1,12 @@
 [
   {
-    "name": "Auto Nhặt Đồ Cực Vip",
-    "scope": "global",
-    "url": "https://raw.githubusercontent.com/thangtq/codejs/main/nhat_do.js"
+    "name": "Auto script hh3d",
+    "scope": "All",
+    "url": "https://raw.githubusercontent.com/thangtq/codejs/main/hh3d1.js"
   },
   {
-    "name": "Click Nhiệm Vụ",
-    "scope": "acc_phu_1",
-    "url": "https://raw.githubusercontent.com/thangtq/codejs/main/click_nhiem_vu.js"
+    "name": "Auto Script HH3D 2",
+    "scope": "All",
+    "url": "https://raw.githubusercontent.com/thangtq/codejs/main/abcd.js"
   }
 ]
