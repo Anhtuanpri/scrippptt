@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Auto Nhặt Đồ Cực Vip",
+    "scope": "global",
+    "url": "https://raw.githubusercontent.com/thangtq/codejs/main/nhat_do.js"
+  },
+  {
+    "name": "Click Nhiệm Vụ",
+    "scope": "acc_phu_1",
+    "url": "https://raw.githubusercontent.com/thangtq/codejs/main/click_nhiem_vu.js"
+  }
+]
